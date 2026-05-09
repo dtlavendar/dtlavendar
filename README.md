@@ -13,5 +13,7 @@ otherwise, interesting stuff working on
 * todo: working on a vst plugin to perform multiband delay and frequency shifting (testing frequency separation algorithms + making some music :) )
 
 spotify (inactive): wthorz
+
 linkedin: linkedin.com/in/dwight-thompson
+
 github: dtlavendar
