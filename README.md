@@ -3,6 +3,8 @@ i like algorithms
 
 really proud of my data structures repository (written a LOT of segment trees)
 
+just finished helping @Safeworkcoalition revamp their website safeworkcoalition.org
+
 otherwise, interesting stuff working on
 
 * working on a CNN / MLP model to train on tribe v2 activations + fMRI mesh images to test how well the model can predict the sentiment of a particular sentence -- thinking about running this backwards, using brain scans to predict feelings
