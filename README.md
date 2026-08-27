@@ -18,8 +18,6 @@ otherwise, interesting stuff working on
 * todo: working on a vst plugin to perform multiband delay and frequency shifting (testing frequency separation algorithms + making some music :) )
 * todo: adding neovim/item, ghostty, & pi dotfiles
 
-spotify (inactive): wthorz
-
 linkedin: https://linkedin.com/in/dwight-thompson
 
 github: dtlavendar
