@@ -3,7 +3,7 @@ i like algorithms
 
 really proud of my data structures repository (written a LOT of segment trees)
 
-creator of themagnuscounter.com --> counts how many time GothamChess has said Magnus Carlson
+creator of https://themagnuscounter.com --> counts how many time GothamChess has said Magnus Carlson
 
 just finished helping @Safeworkcoalition revamp their website https://safeworkcoalition.org
 
