@@ -5,7 +5,9 @@ really proud of my data structures repository (written a LOT of segment trees)
 
 creator of https://themagnuscounter.com --> counts how many time GothamChess has said Magnus Carlson
 
-just finished helping @Safeworkcoalition revamp their website https://safeworkcoalition.org
+just finished helping nonprofit @Safeworkcoalition revamp their website https://safeworkcoalition.org
+
+personal website located at: dulythompson.com
 
 
 
