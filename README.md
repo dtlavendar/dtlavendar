@@ -3,7 +3,11 @@ i like algorithms
 
 really proud of my data structures repository (written a LOT of segment trees)
 
-just finished helping @Safeworkcoalition revamp their website safeworkcoalition.org
+creator of themagnuscounter.com --> counts how many time GothamChess has said Magnus Carlson
+
+just finished helping @Safeworkcoalition revamp their website https://safeworkcoalition.org
+
+
 
 otherwise, interesting stuff working on
 
@@ -16,6 +20,6 @@ otherwise, interesting stuff working on
 
 spotify (inactive): wthorz
 
-linkedin: linkedin.com/in/dwight-thompson
+linkedin: https://linkedin.com/in/dwight-thompson
 
 github: dtlavendar
