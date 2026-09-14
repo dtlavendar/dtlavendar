@@ -7,7 +7,7 @@ creator of https://themagnuscounter.com --> counts how many time GothamChess has
 
 just finished helping nonprofit @Safeworkcoalition revamp their website https://safeworkcoalition.org
 
-personal website located at: https://www.dulythompson.com
+personal website located at: https://dulythompson.com
 
 
 
